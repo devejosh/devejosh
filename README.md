@@ -1,4 +1,4 @@
-### Hello, Welcome to my page 👋
+### Hello and welcome👋
 - 😄 Pronouns: There are only two, I use He/him
 -  🌱 I’m currently learning Python.
 -  💬 Ask me about : Cloud platforms, UCAAS, Web Development.
@@ -6,7 +6,7 @@
     - twitter : @devejosh
     - facebook : @devejosh
 
-Sometimes, I update my portfolio to  include updates related to my career. You can visit the website [here](https://devejosh.github.io) or visit https://devejosh.github.io.
+Sometimes, I update my portfolio to  include updates related to my career. You can visit the website [here](https://devejosh.github.io) 
 <!--
 **devejosh/devejosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
