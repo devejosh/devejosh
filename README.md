@@ -6,7 +6,7 @@
     - twitter : @devejoshx
     - facebook : https://www.facebook.com/devejoshx
 
-I am not a social media person. Usually go there to update pictures.Sometimes, I update my portfolio to  include updates related to my career. You can visit the website [here](https://devejosh.github.io) 
+I am not a social media person. Usually go there to update pictures. Sometimes, I update my portfolio to  include updates related to my career. You can visit the website [here](https://devejosh.github.io) 
 <!--
 **devejosh/devejosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
