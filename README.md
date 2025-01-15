@@ -27,12 +27,13 @@ I'm proficient in a range of technologies and tools, including:
 
 ## 📂 Featured Projects
 
-Here’s a selection of my projects where I blend creativity with technical prowess:
-
 ### 🚀 **[PDF Summarizer with DistilBART]([https://github.com/devejosh/python-llm])**
 - **Description**: **PDF Summarizer with DistilBART** is an AI-powered tool that quickly condenses lengthy PDF documents into concise, readable summaries. It’s cross-platform, easy to use, and automatically installs dependencies for a seamless setup. Ideal for anyone looking to save time by summarizing large PDFs efficiently.
-- **Tech Stack**: Python, Docker, Git
-- **Repo**: [Check Repo](https://github.com/devejosh/python-llm)
+
+  ![Static Badge](https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=%23ffffff&logoSize=auto&color=%233776AB)
+  ![Static Badge](https://img.shields.io/badge/bash-script-%23080808?style=for-the-badge&logo=gnubash&logoColor=%23ffffff&logoSize=auto&color=080808)
+
+- [Check Repo](https://github.com/devejosh/python-llm)
 <!-- 
 ### 🧰 **[Web Automation Suite](https://github.com/devejosh/web-automation-suite)**
 - **Description**: A collection of Python scripts to automate web-related tasks for greater productivity.
@@ -41,7 +42,8 @@ Here’s a selection of my projects where I blend creativity with technical prow
 
 ### 🌍 **[Dockerized Microservices](https://github.com/devejosh/docker-microservices)**
 - **Description**: A set of containerized microservices built to demonstrate scalability and reliability in Docker environments.
-- **Tech Stack**: Docker, Python, Git
+- **Tech Stack**: Docker, Python, 
+
 - **Demo**: [Live Demo](https://devejosh.github.io/docker-microservices) -->
 
 
