@@ -29,10 +29,10 @@ I'm proficient in a range of technologies and tools, including:
 
 Here’s a selection of my projects where I blend creativity with technical prowess:
 
-### 🚀 **[Network Optimizer Tool](https://github.com/devejosh/network-optimizer)**
-- **Description**: A tool designed to streamline network configurations and enhance speed and reliability.
+### 🚀 **[PDF Summarizer with DistilBART]([https://github.com/devejosh/python-llm])**
+- **Description**: **PDF Summarizer with DistilBART** is an AI-powered tool that quickly condenses lengthy PDF documents into concise, readable summaries. It’s cross-platform, easy to use, and automatically installs dependencies for a seamless setup. Ideal for anyone looking to save time by summarizing large PDFs efficiently.
 - **Tech Stack**: Python, Docker, Git
-- **Demo**: [Live Demo](https://devejosh.github.io/network-optimizer)
+- **Repo**: [Check Repo](https://github.com/devejosh/python-llm)
 <!-- 
 ### 🧰 **[Web Automation Suite](https://github.com/devejosh/web-automation-suite)**
 - **Description**: A collection of Python scripts to automate web-related tasks for greater productivity.
