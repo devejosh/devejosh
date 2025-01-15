@@ -25,7 +25,7 @@ I'm proficient in a range of technologies and tools, including:
 
 
 
-<!-- ## 📂 Featured Projects
+## 📂 Featured Projects
 
 Here’s a selection of my projects where I blend creativity with technical prowess:
 
@@ -33,7 +33,7 @@ Here’s a selection of my projects where I blend creativity with technical prow
 - **Description**: A tool designed to streamline network configurations and enhance speed and reliability.
 - **Tech Stack**: Python, Docker, Git
 - **Demo**: [Live Demo](https://devejosh.github.io/network-optimizer)
-
+<!-- 
 ### 🧰 **[Web Automation Suite](https://github.com/devejosh/web-automation-suite)**
 - **Description**: A collection of Python scripts to automate web-related tasks for greater productivity.
 - **Tech Stack**: Python, HTML/CSS
