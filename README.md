@@ -1,4 +1,4 @@
-# 🌟 Welcome to Devendra's Portfolio 🌟
+# 🌟 Welcome 🌟
 
 Hi, I'm **Devendra**, a **Network Engineer** and **a self tought Developer**. My passion lies in crafting efficient, well structure programs. I am all for minimal, clean and elegant code.
 You can explore my projects and learn more about my work on my portfolio: [devejosh.github.io](https://devejosh.github.io)
